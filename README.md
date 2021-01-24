@@ -20,8 +20,8 @@ C, R, Python, Statistics, Machine Learner and Data Science
 Cub3D 42's project and geologist stuffs
 
 - 📫 How to reach me:<br>
-by e-mail: miranda.oliveira.angelica@gmail.com<br>
-on LinkdIn: https://www.linkedin.com/in/anolivei/<br>
+by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:miranda.oliveira.angelica@gmail.com)](mailto:miranda.oliveira.angelica@gmail.com)<br>
+on LinkdIn: [![Linkedin Profile](https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anolivei/)](https://www.linkedin.com/in/anolivei/)<br>
 
 - 🤔 I’m looking for help to find my first job as a data scientist
 
