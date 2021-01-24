@@ -16,8 +16,9 @@ My dream is to become a data scientist :atom:
 - 🔭 I’m currently learning 
 C, R, Python, Statistics, Machine Learning and Data Science
 
-- :woman_astronaut: I’m currently working on 
-42's Cub3D project and geologist stuff
+- :woman_astronaut: I’m currently working on 42's Cub3D project<br>
+
+- :hammer_and_pick: I have a small company which provides geology services [![Linkedin](https://img.shields.io/badge/-Geo_Oliveira-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/geo-oliveira)](https://www.linkedin.com/company/geo-oliveira)<br>
 
 - 📫 How to reach me:<br>
 by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:miranda.oliveira.angelica@gmail.com)](mailto:miranda.oliveira.angelica@gmail.com)<br>
