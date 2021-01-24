@@ -1,7 +1,7 @@
 ### Hi there :bowtie:
 
 My name's Angélica, I'm a geologist geostatistician (USP) :hammer_and_pick: and software engineering student (42 Sao Paulo) :desktop_computer:<br>
-I speak portuguese, english and I'm learnig french aussi :baguette_bread:
+I speak portuguese, english and I'm learnig french aussi :baguette_bread: :croissant:<br>
 My dream is to become a data scientist :atom:
 
 - 🔭 I’m currently learning 
