@@ -23,5 +23,11 @@ I like to dive, literally<br>
 I am the crazy cat lady<br>
 I am the crazy dog lady too
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anolivei&hide=html&layout=compact&theme=tokyonight" />
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anolivei&theme=tokyonight"/>
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anolivei&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anolivei&theme=tokyonight"/></td>
+    </tr>   
+</table>
+</center>
