@@ -1,5 +1,14 @@
 ### Hi there :bowtie:
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anolivei&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anolivei&theme=tokyonight"/></td>
+    </tr>   
+</table>
+</center>
+
 My name's Angélica, I'm a geologist geostatistician (USP) :hammer_and_pick: and software engineering student (42 Sao Paulo) :desktop_computer:<br>
 I speak portuguese, english and I'm learnig french aussi :baguette_bread: :croissant:<br>
 My dream is to become a data scientist :atom:
@@ -22,12 +31,3 @@ I travel to see and study local geology<br>
 I like to dive, literally<br>
 I am the crazy cat lady<br>
 I am the crazy dog lady too
-
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anolivei&hide=html&layout=compact&theme=tokyonight" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anolivei&theme=tokyonight"/></td>
-    </tr>   
-</table>
-</center>
