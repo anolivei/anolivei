@@ -9,25 +9,25 @@
 </table>
 </center>
 
-My name's Angélica, I'm a geologist geostatistician (USP) :hammer_and_pick: and software engineering student (42 Sao Paulo) :desktop_computer:<br>
-I speak portuguese, english and I'm learnig french aussi :baguette_bread: :croissant:<br>
+My name is Angélica, I am a geologist geostatistician (USP) :hammer_and_pick: and software engineering student at 42 Sao Paulo :desktop_computer:<br>
+I speak Portuguese, English and I'm learning French aussi :baguette_bread: :croissant:<br>
 My dream is to become a data scientist :atom:
 
 - 🔭 I’m currently learning 
-C, R, Python, Statistics, Machine Learner and Data Science
+C, R, Python, Statistics, Machine Learning and Data Science
 
 - :woman_astronaut: I’m currently working on 
-Cub3D 42's project and geologist stuffs
+42's Cub3D project and geologist stuff
 
 - 📫 How to reach me:<br>
 by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:miranda.oliveira.angelica@gmail.com)](mailto:miranda.oliveira.angelica@gmail.com)<br>
-on LinkdIn: [![Linkedin Profile](https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anolivei/)](https://www.linkedin.com/in/anolivei/)<br>
+on LinkedIn: [![Linkedin Profile](https://img.shields.io/badge/-LinkedIn_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anolivei/)](https://www.linkedin.com/in/anolivei/)<br>
 
-- 🤔 I’m looking for help to find my first job as a data scientist
+- 🤔 I’m looking for help finding my first job as a data scientist
 
 - :shipit: Fun facts:<br>
 I love books, coffee, cats and rainy days<br>
-I travel to see and study local geology<br>
-I like to dive, literally<br>
+I like traveling to see and study local geology<br>
+I like scuba dive<br>
 I am the crazy cat lady<br>
 I am the crazy dog lady too
