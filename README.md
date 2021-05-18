@@ -16,7 +16,7 @@ My goal is work with data science :atom:
 - 🔭 I’m currently learning 
 C, R, Python, Statistics, Machine Learning and Data Science
 
-- :woman_astronaut: I’m currently working on 42's Cub3D project<br>
+- :woman_astronaut: I’m currently working on 42's Push_swap project<br>
 
 - 📫 How to reach me:<br>
 by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:miranda.oliveira.angelica@gmail.com)](mailto:miranda.oliveira.angelica@gmail.com)<br>
