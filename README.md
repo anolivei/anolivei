@@ -9,7 +9,7 @@
 </table>
 </center>
 
-My name is Angélica, I'm a geologist geostatistician (USP) :hammer_and_pick: and software engineering student at 42 Sao Paulo :desktop_computer:<br>
+My name is Angélica, I'm a software engineering student at [42 Sao Paulo](https://www.42sp.org.br/) :desktop_computer: and a geologist geostatistician ([USP](https://www5.usp.br/)) :hammer_and_pick: <br>
 I speak Portuguese, English and I'm learning French aussi :baguette_bread: :croissant:<br>
 My goal is work with data science :atom:
 
