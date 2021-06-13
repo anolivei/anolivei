@@ -28,7 +28,3 @@ I like traveling to see and study local geology<br>
 I like scuba dive<br>
 I am the crazy cat lady<br>
 I am the crazy dog lady too
-
-![anolivei's stars](https://img.shields.io/github/stars/anolivei?color=blue)
-![anolivei's followers](https://img.shields.io/github/followers/anolivei?color=blue)
-![anolivei's visitors](https://komarev.com/ghpvc/?username=anolivei&color=blue&style=flat&label=visitors)
