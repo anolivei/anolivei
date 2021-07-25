@@ -16,8 +16,7 @@ I speak Portuguese, English and I'm learning French aussi :baguette_bread: :croi
 I'm working as a junior software engineer at [SolCap](https://www.solcap.com.br/) ☀ <br>
 <br>
 - 🔭 I’m currently learning 
-C, R, Python, Statistics, Machine Learning and Data Science
-
+C, Python, Django and Rust<br>
 - :woman_astronaut: I’m currently working on 42's [minishell](https://github.com/anolivei/Minishell42) project<br>
 
 - 📫 How to reach me:<br>
