@@ -17,7 +17,7 @@ I'm working as a junior software engineer at [SolCap](https://www.solcap.com.br/
 <br>
 - 🔭 I’m currently learning 
 C, Python, Django and Rust<br>
-- :woman_astronaut: I’m currently working on 42's [minishell](https://github.com/anolivei/Minishell42) project<br>
+- :woman_astronaut: I’m currently working on 42's [philosophers](https://github.com/anolivei/Philosophers42) project<br>
 
 - 📫 How to reach me:<br>
 by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:miranda.oliveira.angelica@gmail.com)](mailto:miranda.oliveira.angelica@gmail.com)<br>
