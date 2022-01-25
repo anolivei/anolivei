@@ -13,7 +13,7 @@ My name is Angélica, I'm a software engineering student at [42 Sao Paulo](https
 <br>
 I speak Portuguese, English and I'm learning French aussi :baguette_bread: :croissant:<br>
 <br>
-I'm working as a junior software engineer at [SolCap](https://www.solcap.com.br/) ☀ <br>
+I'm working as a junior software engineer =) <br>
 <br>
 - 🔭 I’m currently learning 
 C, Python, Django and Rust<br>
