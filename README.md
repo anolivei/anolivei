@@ -13,10 +13,10 @@ My name is Angélica, I'm a software engineering student at [42 Sao Paulo](https
 <br>
 I speak Portuguese, English and I'm learning French aussi :baguette_bread: :croissant:<br>
 <br>
-I'm working as a junior software engineer =) <br>
+I'm working as a junior software engineer at [Suridata](https://www.suridata.com.br/) =) <br>
 <br>
 - 🔭 I’m currently learning 
-C, Python, Django and Rust<br>
+C++, TypeScript and SQL<br>
 - :woman_astronaut: I’m currently working on 42's [CPP piscine](https://github.com/anolivei/cpp_piscine42)<br>
 
 - 📫 How to reach me:<br>
