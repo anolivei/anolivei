@@ -13,7 +13,7 @@ My name is Angélica, I'm a software engineering student at [42 Sao Paulo](https
 <br>
 I speak Portuguese, English and I'm learning French aussi :baguette_bread: :croissant:<br>
 <br>
-I'm working as a junior software engineer at [Suridata](https://www.suridata.com.br/) =) <br>
+I'm working as a junior software engineer at [Mercado Livre](https://www.mercadolivre.com.br/) =) <br>
 <br>
 - 🔭 I’m currently learning 
 C++, TypeScript and SQL<br>
