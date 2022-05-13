@@ -16,7 +16,7 @@ I speak Portuguese, English and I'm learning French aussi :baguette_bread: :croi
 I'm working as a junior software engineer at [Mercado Livre](https://www.mercadolivre.com.br/) =) <br>
 <br>
 - 🔭 I’m currently learning 
-C++, TypeScript and SQL<br>
+C++, golang and SQL<br>
 - :woman_astronaut: I’m currently working on 42's [CPP piscine](https://github.com/anolivei/cpp_piscine42)<br>
 
 - 📫 How to reach me:<br>
