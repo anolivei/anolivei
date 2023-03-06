@@ -11,7 +11,7 @@
 
 My name is Angélica, I'm a software engineering student at [42 Sao Paulo](https://www.42sp.org.br/) :desktop_computer: and a geologist geostatistician ([USP](https://www5.usp.br/)) :hammer_and_pick: <br>
 <br>
-I speak Portuguese, English and French.
+I speak Portuguese, English and French.<br>
 <br>
 I'm working as a software developer at [Mercado Livre](https://www.mercadolivre.com.br/) =) <br>
 <br>
@@ -24,6 +24,7 @@ by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmai
 on LinkedIn: [![Linkedin Profile](https://img.shields.io/badge/-LinkedIn_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anolivei/)](https://www.linkedin.com/in/anolivei/)<br>
 
 - :shipit: Fun facts:<br>
+I am a mother of a beautiful baby s2<br>
 I love books, coffee, cats and rainy days<br>
 I like traveling to see and study local geology<br>
 I like scuba dive<br>
