@@ -11,12 +11,12 @@
 
 My name is Angélica, I'm a software engineering student at [42 Sao Paulo](https://www.42sp.org.br/) :desktop_computer: and a geologist geostatistician ([USP](https://www5.usp.br/)) :hammer_and_pick: <br>
 <br>
-I speak Portuguese, English and I'm learning French aussi :baguette_bread: :croissant:<br>
+I speak Portuguese, English and French.
 <br>
-I'm working as a junior software engineer at [Mercado Livre](https://www.mercadolivre.com.br/) =) <br>
+I'm working as a software developer at [Mercado Livre](https://www.mercadolivre.com.br/) =) <br>
 <br>
 - 🔭 I’m currently learning 
-C++, golang and SQL<br>
+C++ and golang<br>
 - :woman_astronaut: I’m currently working on 42's [CPP piscine](https://github.com/anolivei/cpp_piscine42)<br>
 
 - 📫 How to reach me:<br>
