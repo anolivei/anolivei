@@ -27,6 +27,4 @@ on LinkedIn: [![Linkedin Profile](https://img.shields.io/badge/-LinkedIn_Profile
 I am a mother of a beautiful baby s2<br>
 I love books, coffee, cats and rainy days<br>
 I like traveling to see and study local geology<br>
-I like scuba dive<br>
-I am the crazy cat lady<br>
-I am the crazy dog lady too
+I have two cats and a dog
