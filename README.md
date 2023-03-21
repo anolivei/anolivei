@@ -17,7 +17,7 @@ I'm working as a software developer at [Mercado Livre](https://www.mercadolivre.
 <br>
 - 🔭 I’m currently learning 
 C++ and golang<br>
-- :woman_astronaut: I’m currently working on 42's [Inception](https://github.com/anolivei/Inception2)<br>
+- :woman_astronaut: I’m currently working on 42's [Inception](https://github.com/anolivei/Inception)<br>
 
 - 📫 How to reach me:<br>
 by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:miranda.oliveira.angelica@gmail.com)](mailto:miranda.oliveira.angelica@gmail.com)<br>
