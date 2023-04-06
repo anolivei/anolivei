@@ -9,22 +9,36 @@
 </table>
 </center>
 
-My name is Angélica, I'm a software engineering student at [42 Sao Paulo](https://www.42sp.org.br/) :desktop_computer: and a geologist geostatistician ([USP](https://www5.usp.br/)) :hammer_and_pick: <br>
-<br>
-I speak Portuguese, English and French.<br>
-<br>
-I'm working as a software developer at [Mercado Livre](https://www.mercadolivre.com.br/) =) <br>
-<br>
-- 🔭 I’m currently learning 
-C++ and golang<br>
-- :woman_astronaut: I’m currently working on 42's [Inception](https://github.com/anolivei/Inception42)<br>
+About me:
 
-- 📫 How to reach me:<br>
-by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:miranda.oliveira.angelica@gmail.com)](mailto:miranda.oliveira.angelica@gmail.com)<br>
-on LinkedIn: [![Linkedin Profile](https://img.shields.io/badge/-LinkedIn_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anolivei/)](https://www.linkedin.com/in/anolivei/)<br>
+* :desktop_computer: Software developer at [Mercado Livre](https://www.mercadolivre.com.br/)
 
-- :shipit: Fun facts:<br>
-I am a mother of a beautiful baby s2<br>
-I love books, coffee, cats and rainy days<br>
-I like traveling to see and study local geology<br>
-I have two cats and a dog
+* :woman_astronaut: Cadet at [42 Sao Paulo](https://www.42sp.org.br/)
+
+* :hammer_and_pick: Geologist geostatistician by [USP](https://www5.usp.br/)
+
+Knowledge:
+
+* :octocat: C, C++, Python, Go and Rust code languages
+
+* :speaking_head: Portuguese, English and French speak languages
+
+Curiosities:
+
+* :baby_bottle: Mother of a beautiful baby
+
+* :cat2: Mother of cats
+
+* :dog2: Mother of a dog
+
+* :orange_heart: Books, coffee, rainy days, travel, geology, adventure, movies, series and games lover
+
+How to reach me:<br>
+* by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:miranda.oliveira.angelica@gmail.com)](mailto:miranda.oliveira.angelica@gmail.com)<br>
+* on LinkedIn: [![Linkedin Profile](https://img.shields.io/badge/-LinkedIn_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anolivei/)](https://www.linkedin.com/in/anolivei/)<br>
+
+I am always learning something new:
+
+* :telescope: Currently learning how http server works
+
+* :woman_technologist: Working on 42's [Webserver](https://github.com/42vogons/webserv) project
