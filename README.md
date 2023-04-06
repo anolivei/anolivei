@@ -31,7 +31,7 @@ Curiosities:
 
 * :dog2: Mother of a dog
 
-* :orange_heart: Books, coffee, rainy days, travel, geology, adventure, movies, series and games lover
+* :orange_heart: Books, coffee, rainy days, travel, geology, adventure, movies, series and games
 
 How to reach me:<br>
 * by e-mail: [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:miranda.oliveira.angelica@gmail.com)](mailto:miranda.oliveira.angelica@gmail.com)<br>
