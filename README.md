@@ -19,9 +19,9 @@ About me:
 
 Knowledge:
 
-* :octocat: C, C++, Python, Go and Rust code languages
+* :octocat: C, C++, Python, Go and Rust
 
-* :speaking_head: Portuguese, English and French speak languages
+* :speaking_head: Portuguese, English and French
 
 Curiosities:
 
