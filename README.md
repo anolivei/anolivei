@@ -39,6 +39,6 @@ How to reach me:<br>
 
 I am always learning something new:
 
-* :telescope: Currently learning how http server works
+* :telescope: Writing my own pong game
 
 * :woman_technologist: Working on 42's [Transcendence](https://github.com/42vogons/transcendence) project
