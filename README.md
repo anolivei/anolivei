@@ -13,19 +13,19 @@ About me:
 
 * :desktop_computer: Software developer at [Mercado Livre](https://www.mercadolivre.com.br/)
 
-* :woman_astronaut: Human Coder by [42 Sao Paulo](https://www.42sp.org.br/)
+* :woman_astronaut: Human coder by [42 Sao Paulo](https://www.42sp.org.br/)
 
 * :hammer_and_pick: Geologist geostatistician by [USP](https://www5.usp.br/)
 
 Knowledge:
 
-* :octocat: C, C++, Python, Go, Rust and Typescript
+* :octocat: C, C++, Python, Go, Rust and TypeScript
 
 * :speaking_head: Portuguese, English and French
 
 Curiosities:
 
-* :teddy_bear: Mother of a beautiful girl
+* :teddy_bear: Mother of a brave girl
 
 * :cat2: Mother of cats
 
