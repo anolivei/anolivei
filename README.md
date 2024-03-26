@@ -13,19 +13,19 @@ About me:
 
 * :desktop_computer: Software developer at [Mercado Livre](https://www.mercadolivre.com.br/)
 
-* :woman_astronaut: Cadet at [42 Sao Paulo](https://www.42sp.org.br/)
+* :woman_astronaut: Human Coder by [42 Sao Paulo](https://www.42sp.org.br/)
 
 * :hammer_and_pick: Geologist geostatistician by [USP](https://www5.usp.br/)
 
 Knowledge:
 
-* :octocat: C, C++, Python, Go and Rust
+* :octocat: C, C++, Python, Go, Rust and Typescript
 
 * :speaking_head: Portuguese, English and French
 
 Curiosities:
 
-* :baby_bottle: Mother of a beautiful baby
+* :teddy_bear: Mother of a beautiful girl
 
 * :cat2: Mother of cats
 
@@ -39,6 +39,4 @@ How to reach me:<br>
 
 I am always learning something new:
 
-* :telescope: Writing my own pong game
-
-* :woman_technologist: Working on 42's [Transcendence](https://github.com/42vogons/transcendence) project
+* :telescope: Finding a new challenge :artificial_satellite:
